@@ -1,6 +1,8 @@
 Welcome to theWall.
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
+[Install for Firefox](https://github.com/sudoer777/theWallAddon/releases/download/1.3.0/theWallAddon-1.3.0.xpi)
+
 ## Why?
 
 The plugin is a simple black-list based detector of websites enabeling the worlds worst killing machine - the Israeli government.
