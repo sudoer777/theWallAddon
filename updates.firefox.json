@@ -1,0 +1,17 @@
+{
+  "addons": {
+    "{4df1496d-becb-4eb8-9f3e-08a52cf3dd6a}": {
+      "updates": [
+        {
+          "version": "1.3.0",
+          "update_link": "https://github.com/sudoer777/theWallAddon/releases/download/1.3.0/theWallAddon-1.3.0.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "91.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

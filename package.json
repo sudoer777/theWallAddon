@@ -72,7 +72,8 @@
     ],
     "browser_specific_settings": {
       "gecko": {
-        "id": "{4df1496d-becb-4eb8-9f3e-08a52cf3dd6a}"
+        "id": "{4df1496d-becb-4eb8-9f3e-08a52cf3dd6a}",
+        "update_url": "https://raw.githubusercontent.com/sudoer777/theWallAddon/refs/heads/main/updates.firefox.json"
       }
     }
   }
